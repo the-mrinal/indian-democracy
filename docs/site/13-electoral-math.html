@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Electoral Systems: FPTP, STV & the Math — Indian Democracy: A Complete Guide</title>
+  <meta name="description" content="In each single-member constituency, **the candidate with the most votes wins** — regardless of whether they cross 50 %. That is the entire rule. There is no second round,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <a class="brand" href="index.html">
+        <span class="brand-flag" aria-hidden="true"></span>
+        <span>
+          <span class="brand-title">Indian Democracy</span><br>
+          <span class="brand-sub">A complete study guide</span>
+        </span>
+      </a>
+      <div class="nav-section">Foundations</div>
+      <ol>
+        <li><a class="ch" href="01-introduction.html">Introduction: India as a Democracy</a></li>
+        <li><a class="ch" href="02-constitution.html">The Constitution: Birth, Structure, Soul</a></li>
+        <li><a class="ch" href="03-rights-duties-dpsp.html">Rights, Duties & Directive Principles</a></li>
+        <li><a class="ch" href="04-federalism.html">Federalism: Union, States, UTs</a></li>
+      </ol>
+      <div class="nav-section">Union Government</div>
+      <ol>
+        <li><a class="ch" href="05-union-executive.html">Union Executive: President, VP, PM, Cabinet</a></li>
+        <li><a class="ch" href="06-lok-sabha.html">Lok Sabha — The House of the People</a></li>
+        <li><a class="ch" href="07-rajya-sabha.html">Rajya Sabha — The Council of States</a></li>
+        <li><a class="ch" href="08-how-bill-becomes-law.html">How a Bill Becomes Law</a></li>
+      </ol>
+      <div class="nav-section">State Government</div>
+      <ol>
+        <li><a class="ch" href="09-state-government.html">State Government: Governor, CM, MLAs</a></li>
+      </ol>
+      <div class="nav-section">Other Pillars</div>
+      <ol>
+        <li><a class="ch" href="10-judiciary.html">The Judiciary: Supreme Court & High Courts</a></li>
+        <li><a class="ch" href="11-eci-and-bodies.html">Election Commission & Constitutional Bodies</a></li>
+      </ol>
+      <div class="nav-section">Elections</div>
+      <ol>
+        <li><a class="ch" href="12-how-elections-work.html">How an Indian Election Actually Runs</a></li>
+        <li><a class="ch active" href="13-electoral-math.html">Electoral Systems: FPTP, STV & the Math</a></li>
+      </ol>
+      <div class="nav-section">Local Government</div>
+      <ol>
+        <li><a class="ch" href="14-local-government.html">Local Self-Government: Panchayats & Nagar Palikas</a></li>
+      </ol>
+      <div class="nav-section">Politics in Practice</div>
+      <ol>
+        <li><a class="ch" href="15-parties-and-defection.html">Political Parties & the Anti-Defection Law</a></li>
+        <li><a class="ch" href="16-money-in-politics.html">Money in Politics: Finance, Bonds, Criminalisation</a></li>
+        <li><a class="ch" href="17-ground-execution.html">Ground-Level Campaign Execution</a></li>
+      </ol>
+      <div class="nav-section">Today</div>
+      <ol>
+        <li><a class="ch" href="18-recent-elections.html">Recent Elections: 2024 LS → 2026 State Cycle</a></li>
+      </ol>
+      <div class="nav-section">Reference</div>
+      <ol>
+        <li><a class="ch" href="19-glossary-references.html">Glossary, Timeline & References</a></li>
+      </ol>
+      <div class="sidebar-foot">
+        Built June 2026 · Sources cited per chapter.<br>
+        Anchored in M. Laxmikanth's <em>Indian Polity</em> and Shivam Shankar Singh's <em>How to Win an Indian Election</em>.
+      </div>
+    </aside>
+    <main class="content">
+      <article>
+<p class="lede">India uses <strong>two</strong> different electoral systems side by side. First-Past-The-Post (FPTP) for everything you vote in directly — Lok Sabha, State Assembly, Panchayat. Single Transferable Vote with Proportional Representation (STV-PR) for the indirect elections — Rajya Sabha, Legislative Councils, President, Vice-President. The two produce very different mathematical pathologies. Understanding both is the difference between reading election results and reading them <em>well</em>.</p>
+
+<div class="chapter-meta">
+  <span><strong>Reading time:</strong> ~15 min</span>
+  <span><strong>Pairs with:</strong> Laxmikanth, Electoral System chapter · Lokniti/CSDS election studies · Milan Vaishnav, <em>When Crime Pays</em></span>
+</div>
+
+<h2 id="1-first-past-the-post-fptp">1 · First-Past-The-Post (FPTP)</h2>
+<h3 id="11-the-rule">1.1 The rule</h3>
+<p>In each single-member constituency, <strong>the candidate with the most votes wins</strong> — regardless of whether they cross 50 %. That is the entire rule. There is no second round, no preferential ballot, no quota.</p>
+<h3 id="12-where-fptp-is-used">1.2 Where FPTP is used</h3>
+<ul>
+<li><strong>Lok Sabha</strong> (543 constituencies)</li>
+<li><strong>State Legislative Assemblies</strong> (60 to 500 seats each)</li>
+<li><strong>Local bodies</strong> — Panchayats and Municipalities</li>
+</ul>
+<h3 id="13-the-vote-share-seat-share-distortion">1.3 The vote-share / seat-share distortion</h3>
+<p>FPTP <strong>magnifies pluralities into majorities</strong> and <strong>wastes votes</strong> that don't help elect the winner. Famous Indian illustrations:</p>
+<ul>
+<li><strong>BJP, 2019 LS</strong>: ~37.4 % national vote share → <strong>303 LS seats</strong> (55.8 % of the House).</li>
+<li><strong>INC, 2014 LS</strong>: 19.3 % national vote share → just <strong>44 LS seats</strong> (8.1 % of the House) — Congress's worst-ever LS performance; UPA total of 59 fell <em>below</em> the 55-seat LOP threshold (<a href="https://en.wikipedia.org/wiki/2014_Indian_general_election">source</a>).</li>
+<li><strong>BSP, 2014 LS</strong>: 4.1 % national vote → <strong>0 seats</strong>. (Vote spread thinly across many constituencies — none won.)</li>
+<li><strong>DMK, 2024 LS</strong>: ~22 seats from Tamil Nadu — a near-clean sweep because DMK concentrated its 5-6% national vote in one state.</li>
+</ul>
+<p>The pattern: <strong>regional concentration wins seats; dispersed vote wastes</strong>.</p>
+<h3 id="14-wasted-vote-phenomenon">1.4 Wasted vote phenomenon</h3>
+<p>In FPTP, <strong>every vote for a losing candidate, and every vote for a winning candidate beyond what they needed</strong>, is "wasted" — does not affect the result. India's "national vote share" is therefore a misleading aggregate: there is no national race, only 543 separate FPTP contests.</p>
+<h3 id="15-why-india-sticks-with-fptp">1.5 Why India sticks with FPTP</h3>
+<ul>
+<li><strong>Simplicity</strong> — voter sees one button, picks one candidate.</li>
+<li><strong>Single-member constituency = a "representative for me"</strong> — geographic accountability is real.</li>
+<li><strong>Stability</strong> — FPTP tends to produce single-party majorities (mostly true between 1952–1989 and 2014–2019; mixed during the coalition era 1989–2014 and again from 2024).</li>
+<li><strong>Path dependence</strong> — switching is hard once parties' organisational structures have evolved around it.</li>
+</ul>
+<h2 id="2-single-transferable-vote-with-proportional-representation-stv-pr">2 · Single Transferable Vote with Proportional Representation (STV-PR)</h2>
+<h3 id="21-where-stv-pr-is-used">2.1 Where STV-PR is used</h3>
+<ul>
+<li><strong>Rajya Sabha</strong> — elected by MLAs of each state.</li>
+<li><strong>Legislative Councils</strong> in the 6 states that have them — elected partly by MLAs, partly by local bodies, partly by graduates, partly by teachers.</li>
+<li><strong>President</strong> — elected by an Electoral College of MPs + MLAs with weighted vote values.</li>
+<li><strong>Vice-President</strong> — elected by all MPs (elected + nominated).</li>
+</ul>
+<h3 id="22-the-rule">2.2 The rule</h3>
+<p>Each elector <strong>ranks the candidates</strong> in order of preference. To win, a candidate must reach a <strong>quota</strong> — usually the <strong>Droop quota</strong>:</p>
+<blockquote>
+<p><strong>Quota = (Total valid votes ÷ (Number of seats + 1)) + 1</strong></p>
+</blockquote>
+<p>Process:</p>
+<ol>
+<li><strong>First-preference votes</strong> are counted for each candidate.</li>
+<li>Any candidate exceeding the quota is <strong>declared elected</strong>.</li>
+<li>The winner's <strong>surplus</strong> votes (anything above the quota) are transferred to next-preferences, using a calculated "<strong>transfer value</strong>."</li>
+<li>If no candidate has reached the quota, the candidate with the <strong>fewest votes is eliminated</strong> and their votes redistributed by next preferences.</li>
+<li>Iterate until all seats are filled.</li>
+</ol>
+<h3 id="23-a-small-worked-example-rajya-sabha">2.3 A small worked example — Rajya Sabha</h3>
+<p>Suppose a state has <strong>5 RS seats</strong> to fill, and <strong>120 MLAs</strong> to vote.</p>
+<ul>
+<li>Quota = (120 ÷ 6) + 1 = <strong>21</strong>.</li>
+<li>Each candidate needs <strong>21 first-preference votes</strong> to win outright.</li>
+<li>If a candidate gets 35 first-preferences, the <strong>surplus of 14</strong> is redistributed (with a transfer value &lt; 1).</li>
+<li>If no candidate hits quota, the lowest is eliminated; their votes go to the next preference.</li>
+</ul>
+<h3 id="24-why-stv-is-proportional">2.4 Why STV is "proportional"</h3>
+<p>If party A holds 60 % of MLA support and party B holds 40 %, on a 5-seat election:</p>
+<ul>
+<li>A's share of the quota: 60 % × 5 = 3 seats (roughly).</li>
+<li>B's share: 40 % × 5 = 2 seats (roughly).</li>
+</ul>
+<p>So party seat-share <strong>tracks vote-share</strong> almost exactly — a sharp contrast to FPTP. This is why Rajya Sabha composition tends to reflect the <em>state-by-state</em> political landscape more accurately than the Lok Sabha reflects the <em>national</em> one.</p>
+<h2 id="3-the-presidents-election-stv-with-weighted-values">3 · The President's election — STV with weighted values</h2>
+<p>A unique twist on STV. The President is elected by an Electoral College in which <strong>votes are not equal</strong> — they are weighted to balance:</p>
+<ol>
+<li><strong>Uniformity of representation between states</strong> (proportional to population).</li>
+<li><strong>Parity between the Union (MPs) and the States (MLAs) as a whole</strong>.</li>
+</ol>
+<h3 id="31-the-formulas-re-stated-from-chapter-5">3.1 The formulas (re-stated from Chapter 5)</h3>
+<blockquote>
+<p><strong>Value of one MLA's vote</strong> = (State's population per 1971 Census ÷ Number of elected MLAs of that State) ÷ 1000</p>
+<p><strong>Value of one MP's vote</strong> = (Total value of all MLA votes of all States) ÷ (Total number of elected MPs of both Houses)</p>
+</blockquote>
+<h3 id="32-worked-example-ups-403-mlas">3.2 Worked example — UP's 403 MLAs</h3>
+<p>UP's 1971 population was <strong>8,38,49,905</strong>. Elected MLAs = <strong>403</strong>.</p>
+<ul>
+<li>MLA vote value = 83,849,905 ÷ 403 ÷ 1000 ≈ <strong>208</strong>.</li>
+<li>So one UP MLA's vote = 208 vote units.</li>
+<li>Tamil Nadu (1971 pop: 4,11,99,168; 234 MLAs): vote value = 41,199,168 ÷ 234 ÷ 1000 ≈ <strong>176</strong>.</li>
+<li>Sikkim (1971 pop: 2,09,843; 32 MLAs): vote value = 209,000 ÷ 32 ÷ 1000 ≈ <strong>7</strong>.</li>
+</ul>
+<h3 id="33-the-2022-election-numbers">3.3 The 2022 election numbers</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th style="text-align: right;">Metric</th>
+<th style="text-align: left;">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">Total electors</td>
+<td style="text-align: left;">4,809 (~771 MPs + 4,038 MLAs across 28 states + Delhi/Puducherry/J&amp;K UTs)</td>
+</tr>
+<tr>
+<td style="text-align: right;">MP vote value</td>
+<td style="text-align: left;">700</td>
+</tr>
+<tr>
+<td style="text-align: right;">Total vote value</td>
+<td style="text-align: left;">10,86,431</td>
+</tr>
+<tr>
+<td style="text-align: right;">Murmu votes</td>
+<td style="text-align: left;">2,161 (vote value: <strong>5,77,777</strong>)</td>
+</tr>
+<tr>
+<td style="text-align: right;">Sinha votes</td>
+<td style="text-align: left;">1,058 (vote value: <strong>2,61,062</strong>)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Murmu won by a margin of <strong>2,96,626</strong> vote-value units (<a href="https://en.wikipedia.org/wiki/2022_Indian_presidential_election">source</a>).</p>
+<h3 id="34-why-1971-census">3.4 Why 1971 census?</h3>
+<p>Frozen by the <strong>42nd Amendment, 1976</strong> and <strong>extended by the 84th Amendment, 2001</strong> until "the first census after 2026." This anchors the Electoral College in a uniform population baseline regardless of subsequent demographic shifts — so a UP MLA's vote weight today reflects UP's <em>1971</em> population, not 2026.</p>
+<h2 id="4-delimitation-drawing-the-constituencies">4 · Delimitation — drawing the constituencies</h2>
+<p>A <strong>Delimitation Commission</strong> redraws constituency boundaries after each census. There have been <strong>four</strong> Indian Delimitation Commissions: <strong>1952, 1962, 1973, 2002</strong> (<a href="https://en.wikipedia.org/wiki/Delimitation_Commission_of_India">source</a>).</p>
+<h3 id="41-the-freeze">4.1 The freeze</h3>
+<p>The state-wise allocation of Lok Sabha seats was <strong>frozen on 1971 census data</strong> by the <strong>42nd Amendment, 1976</strong>, and the freeze was <strong>extended by the 84th Amendment, 2001 until "the first census after 2026"</strong>. The <strong>87th Amendment, 2003</strong> allowed intra-state boundary changes using <strong>2001 census data</strong>, but <strong>without changing total seats per state</strong>.</p>
+<h3 id="42-the-2026-fight">4.2 The 2026 fight</h3>
+<p>The first post-2026 census is scheduled for <strong>1 March 2027</strong>. If state-wise reapportionment follows on 2027 population:</p>
+<ul>
+<li><strong>Northern states</strong> (UP, Bihar, Rajasthan, MP) would <strong>gain</strong> seats.</li>
+<li><strong>Southern states</strong> (TN, Kerala, Karnataka, AP) would <strong>lose</strong> share.</li>
+</ul>
+<p>A government attempt to push delimitation legislation early — the <strong>Constitution (131st Amendment) Bill, 2026</strong>, <strong>UT Laws (Amendment) Bill, 2026</strong>, and <strong>Delimitation Bill, 2026</strong>, introduced 16 April 2026 — saw the <strong>131st Amendment Bill defeated 298–230</strong>, short of the 352-vote 2/3 majority needed.</p>
+<h2 id="5-reservation-of-seats">5 · Reservation of seats</h2>
+<h3 id="51-scst-reservation">5.1 SC/ST reservation</h3>
+<p>Under <strong>Articles 330 and 332</strong>, seats are reserved for Scheduled Castes and Scheduled Tribes in the Lok Sabha and State Assemblies <strong>in proportion to their population</strong> in that state. Currently in the Lok Sabha:</p>
+<ul>
+<li><strong>SC reserved seats: 84</strong></li>
+<li><strong>ST reserved seats: 47</strong></li>
+</ul>
+<p>Reservation was <strong>extended until 25 January 2030</strong> by the <strong>104th Amendment</strong> (effective 25 January 2020), which also <strong>abolished the Anglo-Indian nominated seats</strong> (Articles 331 and 333).</p>
+<h3 id="52-womens-reservation-nari-shakti-vandan-adhiniyam">5.2 Women's reservation — Nari Shakti Vandan Adhiniyam</h3>
+<p>The <strong>106th Amendment, 2023</strong> reserves <strong>one-third of seats for women</strong> in the Lok Sabha, State Legislative Assemblies, and the Delhi Legislative Assembly, including one-third within SC/ST reserved seats.</p>
+<ul>
+<li>Passed Lok Sabha <strong>454–2</strong> on 20 September 2023.</li>
+<li>Passed Rajya Sabha <strong>214–0</strong> on 21 September 2023.</li>
+<li>President's assent <strong>28 September 2023</strong>.</li>
+<li>Centre notified the law into force on <strong>16 April 2026</strong>.</li>
+<li><strong>Article 334A</strong> stipulates the reservation will commence only <strong>after a delimitation exercise based on the first census published after the Act's commencement</strong>. The next census is scheduled for <strong>1 March 2027</strong>.</li>
+<li>Earliest realistic application: <strong>2029 Lok Sabha election</strong> (could slip further).</li>
+</ul>
+<p>The reservation will be <strong>rotated</strong> — different constituencies will become women-reserved in successive election cycles. Operational duration: <strong>15 years</strong>, extendable by Parliament.</p>
+<h2 id="6-anti-defection-the-math-of-party-loyalty-10th-schedule">6 · Anti-Defection — the math of party loyalty (10th Schedule)</h2>
+<p>The <strong>Tenth Schedule</strong> (inserted by the <strong>52nd Amendment, 1985</strong>) disqualifies a legislator on the following grounds:</p>
+<ol>
+<li><strong>Voluntarily giving up party membership</strong> — including by conduct, not only by formal resignation.</li>
+<li><strong>Voting or abstaining against a party whip</strong> without prior permission (unless condoned within 15 days).</li>
+<li><strong>An independent</strong> elected legislator joining any political party after election.</li>
+<li><strong>A nominated member</strong> joining a political party after 6 months from taking the seat.</li>
+</ol>
+<p>The <strong>91st Amendment, 2003</strong> removed the "split" exception that had previously protected defections by <strong>one-third</strong> of a legislature party. Only <strong>"merger"</strong> — requiring <strong>two-thirds of the legislature party</strong> plus formal merger with another party — is now an exempt route.</p>
+<p>The <strong>Speaker / Chairperson</strong> decides disqualification (subject to judicial review per <strong><em>Kihoto Hollohan v. Zachillhu</em>, 1992</strong><em>). In </em>Keisham Meghachandra Singh v. Manipur Speaker<em> (2020), the SC suggested decisions should be made within </em><em>3 months</em>* — guidance, not statutorily binding.</p>
+<p>Two 2024 high-profile cases — the <strong>Shiv Sena split</strong> (Speaker held Shinde faction = "real Shiv Sena" on 10 January 2024) and the <strong>NCP split</strong> (Speaker held Ajit Pawar faction = "real NCP" on 15 February 2024) — illustrate how the law has effectively been read down by partisan Speakers.</p>
+<h2 id="7-vote-share-vs-seat-share-the-cheat-sheet">7 · "Vote-share vs seat-share" — the cheat sheet</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Phenomenon</th>
+<th>Why it happens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Big national vote shares → outsized seat counts</td>
+<td>FPTP's "winner takes all" magnifies pluralities</td>
+</tr>
+<tr>
+<td>Small concentrated vote → big seats</td>
+<td>DMK, TMC, BJD do this well — regional concentration</td>
+</tr>
+<tr>
+<td>Big dispersed vote → small seats</td>
+<td>BSP's classic problem — votes everywhere, wins nowhere</td>
+</tr>
+<tr>
+<td>Anti-incumbency in a strong-leader system</td>
+<td>Can rebalance dramatically (2024 UP)</td>
+</tr>
+<tr>
+<td>Independent candidates' votes</td>
+<td>Almost always wasted under FPTP</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="8-three-reform-proposals-that-recur">8 · Three reform proposals that recur</h2>
+<p>The Indian electoral debate has three perennial reform candidates:</p>
+<ol>
+<li><strong>Proportional Representation (PR)</strong> — replace FPTP for the Lok Sabha with PR (probably MMP, mixed-member proportional). Would make vote-share and seat-share match more closely; would weaken single-party dominance; would also weaken accountability to a specific constituency. Periodically recommended (Law Commission 1999 — partial; National Commission to Review the Working of the Constitution 2002).</li>
+<li><strong>Right to Recall</strong> — let voters recall their MP/MLA mid-term. Adopted at panchayat level in some states (MP, Chhattisgarh, Bihar). No serious push at Lok Sabha level.</li>
+<li><strong>One Nation, One Election</strong> — synchronise Lok Sabha and Assembly elections to a single 5-year cycle. The Ram Nath Kovind Committee Report (March 2024) recommended a phased implementation; a Constitution Amendment Bill was tabled in December 2024. Implementation is politically contentious and constitutionally complex.</li>
+</ol>
+<p>→ Continue with <strong><a href="14-local-government.html">Chapter 14: Local Self-Government — Panchayats &amp; Nagar Palikas</a></strong>.</p>
+<h2 id="sources">Sources</h2>
+<div class="sources">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Electoral_College_(India)">Electoral College — President's election math</a>.</li>
+    <li><a href="https://en.wikipedia.org/wiki/2022_Indian_presidential_election">2022 Presidential election — vote values</a>.</li>
+    <li><a href="https://en.wikipedia.org/wiki/Delimitation_Commission_of_India">Delimitation Commission of India</a>.</li>
+    <li><a href="https://en.wikipedia.org/wiki/One_Hundred_and_Sixth_Amendment_of_the_Constitution_of_India">106th Amendment — Nari Shakti Vandan Adhiniyam</a>.</li>
+    <li><a href="https://www.lokniti.org/">Lokniti / CSDS — election studies</a>.</li>
+    <li>Yogendra Yadav, "<em>Making Sense of Indian Democracy</em>" (Permanent Black, 2020) — Ch. on FPTP and the "third electoral system".</li>
+    <li>M. Laxmikanth, <em>Indian Polity</em>, Electoral System chapter.</li>
+  </ul>
+</div>
+
+        <nav class="pager">
+          <a href="12-how-elections-work.html"><span class="label">← Previous</span><strong>How an Indian Election Actually Runs</strong></a>
+          <a href="14-local-government.html" style="text-align:right;"><span class="label">Next →</span><strong>Local Self-Government: Panchayats & Nagar Palikas</strong></a>
+        </nav>
+      </article>
+    </main>
+  </div>
+  <script src="bookmarks.js" defer></script>
+</body>
+</html>
