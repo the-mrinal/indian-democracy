@@ -1,0 +1,270 @@
+{
+  "id": "11-eci-and-bodies",
+  "title": "Election Commission & Constitutional Bodies",
+  "section": "Other Pillars",
+  "kind": "chapter",
+  "duration": 693.55,
+  "audio": {
+    "mp3": "11-eci-and-bodies.mp3",
+    "webm": "11-eci-and-bodies.webm"
+  },
+  "cover": "11-eci-and-bodies.png",
+  "voices": {
+    "host_a": "Kore",
+    "host_b": "Puck"
+  },
+  "turns": [
+    {
+      "speaker": "host_a",
+      "start": 0.0,
+      "end": 16.536,
+      "text": "Hi Aditya. I want to start somewhere small today \u2014 that little purple ink mark you get on your finger after voting. Because the body that puts it there has been quietly running the largest election on earth for seventy-five years, and almost nobody can name its boss."
+    },
+    {
+      "speaker": "host_b",
+      "start": 16.536,
+      "end": 47.195,
+      "text": "Hi Neha. Fair start. His name is Gyanesh Kumar \u2014 26th Chief Election Commissioner, took oath in February 2025, term runs till January 2029. Most people couldn't pick him out of a lineup, and that's actually the design. The Election Commission of India works best when you don't notice it. Article 324 of the Constitution gives it what the Supreme Court in Mohinder Singh Gill back in 1978 called \"plenary\" power \u2014 superintendence, direction and control of every election to Parliament, every state legislature, the President, and the Vice-President."
+    },
+    {
+      "speaker": "host_a",
+      "start": 47.195,
+      "end": 54.43,
+      "text": "One body, all of that. But not the panchayat elections in my hometown \u2014 those are run by someone else, right?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 54.43,
+      "end": 79.577,
+      "text": "Right. Panchayats and municipalities are conducted by State Election Commissions under Articles 243K and 243ZA. Different body, different rules, often a very different level of independence. The ECI only handles the big ones. But within that mandate, it is genuinely extraordinary \u2014 it manages roughly a billion voters across a million-plus polling booths, and the polling officer at your booth is usually a schoolteacher who's been pulled out of class for two days."
+    },
+    {
+      "speaker": "host_a",
+      "start": 79.577,
+      "end": 86.123,
+      "text": "So who actually does the work on the ground? Because three commissioners in Delhi can't run a national election."
+    },
+    {
+      "speaker": "host_b",
+      "start": 86.123,
+      "end": 115.06,
+      "text": "It's a layered machinery. At the state level there's a Chief Electoral Officer, usually a senior IAS officer. At the district level, the District Magistrate doubles up as District Election Officer. Then an Electoral Registration Officer for each assembly constituency, a Returning Officer who actually declares the winner, and at the very bottom \u2014 the Booth Level Officer. Often a schoolteacher, an anganwadi (un-gun-WAH-dee) worker, a panchayat secretary. The person who knocks on your door asking if your name is on the voter roll."
+    },
+    {
+      "speaker": "host_a",
+      "start": 115.06,
+      "end": 125.395,
+      "text": "That's the part I never appreciated. The election doesn't happen because of three commissioners \u2014 it happens because some woman in a sari is walking through villages with a register."
+    },
+    {
+      "speaker": "host_b",
+      "start": 125.395,
+      "end": 148.131,
+      "text": "And the commissioners on top of that pyramid have a strange history. From 1950 to 1989, it was a single-member body \u2014 just the CEC. Then in October 1989, Rajiv Gandhi made it three-member. Two months later, V.P. Singh's government abolished those two extra posts and went back to single-member. Then in 1993, the multi-member structure was made permanent \u2014 alongside, of all people, T.N. Seshan."
+    },
+    {
+      "speaker": "host_a",
+      "start": 148.331,
+      "end": 161.109,
+      "text": "That timing is suspicious. Seshan was the CEC who suddenly started enforcing rules nobody had bothered enforcing \u2014 model code of conduct, expenditure limits. And the very year he gets two colleagues he has to outvote?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 161.109,
+      "end": 177.791,
+      "text": "The official story was structural reform. The unofficial story is that politicians had finally met a CEC who scared them, and the easiest way to dilute one strong man is to give him two majority partners. Decisions are now taken by majority vote. Seshan publicly hated it."
+    },
+    {
+      "speaker": "host_a",
+      "start": 177.791,
+      "end": 194.473,
+      "text": "This is the part that always bothered me. Removing the CEC is hard \u2014 same procedure as a Supreme Court judge, special majority in both Houses. But the other two commissioners can be removed just on the CEC's recommendation to the President. That's a much thinner shield."
+    },
+    {
+      "speaker": "host_b",
+      "start": 194.473,
+      "end": 221.093,
+      "text": "Much thinner. And it gets thinner still when you look at how they're appointed. For decades, the President appointed the CEC and ECs purely on the advice of the Prime Minister. An executive monopoly. Then in March 2023, in Anoop Baranwal, a five-judge Constitution Bench said \u2014 until Parliament writes a law \u2014 appointments should go through a three-member committee: PM, Leader of the Opposition in the Lok Sabha, and the Chief Justice of India."
+    },
+    {
+      "speaker": "host_a",
+      "start": 221.093,
+      "end": 226.062,
+      "text": "That sounds like a sensible balance. PM, opposition, judiciary. So what did Parliament do?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 226.062,
+      "end": 257.296,
+      "text": "Parliament passed the CEC and Other ECs Act in December 2023. The Act took the Chief Justice off the committee and replaced him with a Union Cabinet Minister nominated by the PM. So the committee is now PM plus a minister of his choice, plus the Leader of the Opposition. Two-to-one in the government's favour. A Search Committee headed by the Cabinet Secretary shortlists five names. And the committee remains valid even when the Leader of Opposition post is vacant \u2014 which it has been for long stretches."
+    },
+    {
+      "speaker": "host_a",
+      "start": 257.296,
+      "end": 261.555,
+      "text": "So Parliament looked at the Court's three-member balance and just... reset it."
+    },
+    {
+      "speaker": "host_b",
+      "start": 261.555,
+      "end": 279.302,
+      "text": "Pretty much. Petitions challenging the Act are pending at the Supreme Court. An interim stay was refused. Which is how Gyanesh Kumar and Vivek Joshi were both appointed under this new mechanism in February 2025. The legal cloud is still there. Whether it ever turns into rain is another question."
+    },
+    {
+      "speaker": "host_a",
+      "start": 279.502,
+      "end": 289.035,
+      "text": "Let me push on this though. Every government in history wanted pliable commissioners. The Congress wasn't appointing saints in the 1960s. Is this really worse, or just more visible?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 289.035,
+      "end": 311.717,
+      "text": "That's the fair pushback. The honest answer is \u2014 the old system depended on convention, and conventions in India have a way of being remembered fondly only after they're broken. What Anoop Baranwal tried to do was lock the convention into a structure. The 2023 Act unlocked it again. Whether that matters depends entirely on the people in the chair. Which is a thin reed to lean democracy on."
+    },
+    {
+      "speaker": "host_a",
+      "start": 311.717,
+      "end": 320.922,
+      "text": "Let's move from the ECI to the other constitutional bodies, because they all share this same architecture \u2014 independent on paper, appointment-dependent in practice. Start with the UPSC."
+    },
+    {
+      "speaker": "host_b",
+      "start": 320.922,
+      "end": 346.234,
+      "text": "Union Public Service Commission, Articles 315 to 323. The body that runs the Civil Services Examination \u2014 the one that roughly a million people sit for every year hoping to become IAS, IPS, IFS. Chairman and members appointed by the President. Tenure six years or 65, whichever is earlier. At least half the members must have ten years of government service, which is the constitutional way of saying \u2014 we don't want this run entirely by outsiders."
+    },
+    {
+      "speaker": "host_a",
+      "start": 346.234,
+      "end": 349.85,
+      "text": "And the removal procedure is tougher than the ECI's, isn't it?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 349.85,
+      "end": 373.518,
+      "text": "In an interesting way, yes. To remove a UPSC member, the President has to refer the matter to the Supreme Court, and act on its inquiry report. That's actually a stronger judicial check than the CEC removal process, which is pure parliamentary supermajority. The drafters were genuinely worried about the recruitment of the civil service being captured by political patronage. They'd watched the British do it the wrong way for two centuries."
+    },
+    {
+      "speaker": "host_a",
+      "start": 373.518,
+      "end": 385.023,
+      "text": "Then there's the Finance Commission. Every five years, the President sets up a new one. And this one matters in a very practical way \u2014 it decides how much tax money each state gets back."
+    },
+    {
+      "speaker": "host_b",
+      "start": 385.023,
+      "end": 410.993,
+      "text": "Article 280. The Finance Commission recommends the vertical split between the Centre and the states, and the horizontal split among the states themselves. The 14th Finance Commission under Y.V. Reddy raised the states' share of the divisible pool from 32 percent to 42 percent in 2015 \u2014 a genuinely big shift. The 15th, under N.K. Singh, brought it down by one point to 41 percent, because Jammu and Kashmir and Ladakh got carved out as Union Territories in 2019."
+    },
+    {
+      "speaker": "host_a",
+      "start": 411.193,
+      "end": 417.254,
+      "text": "And the 16th Finance Commission just submitted its report \u2014 Arvind Panagariya's commission. February 1, 2026."
+    },
+    {
+      "speaker": "host_b",
+      "start": 417.254,
+      "end": 435.817,
+      "text": "Tabled in Parliament that day. Recommendation: keep the states' share at 41 percent for the 2026 to 2031 cycle. Technically the recommendations are advisory. In practice, by convention, governments accept them almost entirely. Which is one of those Indian arrangements where the word \"advisory\" is doing extremely heavy lifting."
+    },
+    {
+      "speaker": "host_a",
+      "start": 435.817,
+      "end": 446.046,
+      "text": "The fight isn't really about 41 versus 42, though. It's about the horizontal formula \u2014 how that money is split between states. And that's been politically explosive."
+    },
+    {
+      "speaker": "host_b",
+      "start": 446.046,
+      "end": 469.155,
+      "text": "Particularly the population weight. The older formulas used 1971 census data, partly to not penalise southern states for having stabilised their populations. Newer formulas have shifted partly to 2011 data, which moves money toward higher-fertility northern states \u2014 UP, Bihar, Rajasthan. It's the same demographic argument we had about Lok Sabha seats and delimitation, just denominated in rupees instead of MPs."
+    },
+    {
+      "speaker": "host_a",
+      "start": 469.155,
+      "end": 480.141,
+      "text": "Then there's the CAG. Ambedkar called him \"the most important officer under the Constitution.\" Which is a striking thing to say about a man whose job is essentially audit."
+    },
+    {
+      "speaker": "host_b",
+      "start": 480.141,
+      "end": 506.281,
+      "text": "\"Guardian of the public purse.\" Article 148. The current CAG is K. Sanjay Murthy \u2014 took oath in November 2024. Appointed by the President, removed by the same procedure as a Supreme Court judge, salary charged on the Consolidated Fund so Parliament can't squeeze him by cutting pay. His reports go to Parliament, where the Public Accounts Committee \u2014 chaired by convention by the opposition \u2014 picks them apart."
+    },
+    {
+      "speaker": "host_a",
+      "start": 506.281,
+      "end": 515.373,
+      "text": "The CAG is one of those bodies whose reports occasionally explode into politics. Coal blocks, 2G \u2014 both started life as CAG audit paragraphs."
+    },
+    {
+      "speaker": "host_b",
+      "start": 515.373,
+      "end": 531.284,
+      "text": "And the chapter doesn't get into those specifics, but the structural point is real. An auditor with judicial-grade tenure protection can write things a finance ministry official cannot. Whether anyone acts on what he writes is, of course, a different building entirely."
+    },
+    {
+      "speaker": "host_a",
+      "start": 531.484,
+      "end": 543.163,
+      "text": "Then the trio of social-justice commissions \u2014 SCs, STs, and Backward Classes. NCSC, NCST, NCBC. All under Article 338 and its sub-articles. The NCBC only got constitutional status in 2018."
+    },
+    {
+      "speaker": "host_b",
+      "start": 543.163,
+      "end": 567.301,
+      "text": "The 102nd Amendment in 2018 upgraded it from a statutory body under a 1993 law to a full constitutional commission. It also inserted Article 342A \u2014 President specifies Socially and Educationally Backward Classes for each state, after consulting the Governor. Which sounded technical until the Maratha quota case, where the Supreme Court read 342A as taking that power away from states entirely."
+    },
+    {
+      "speaker": "host_a",
+      "start": 567.301,
+      "end": 572.752,
+      "text": "And Parliament responded with another amendment \u2014 the 105th \u2014 restoring the states' power."
+    },
+    {
+      "speaker": "host_b",
+      "start": 572.752,
+      "end": 587.156,
+      "text": "2021. A rare case of the Centre voluntarily handing power back to states, mainly because every state government, regardless of party, wanted that power. Reservation politics is the one thing on which Indian federalism becomes weirdly unanimous."
+    },
+    {
+      "speaker": "host_a",
+      "start": 587.156,
+      "end": 598.836,
+      "text": "There are also the non-constitutional bodies that get lumped into this architecture \u2014 NITI Aayog, Lokpal (LOHK-paal), NHRC, CVC, RBI, SEBI. The chapter mentions Lokpal specifically. Which I'd half-forgotten exists."
+    },
+    {
+      "speaker": "host_b",
+      "start": 598.836,
+      "end": 619.859,
+      "text": "That's the honest reaction. Lokpal was set up under the 2013 Act after the entire Anna Hazare movement \u2014 investigates corruption complaints against public servants including, with safeguards, the Prime Minister. The first Lokpal was appointed in 2019. Since then it has been, let's say, restrained. The institution exists. The case docket does not."
+    },
+    {
+      "speaker": "host_a",
+      "start": 619.859,
+      "end": 635.432,
+      "text": "The pattern that keeps coming up across all of this is the same. Constitutional protection of tenure. Appointment power that quietly rests with the executive. And independence that holds only as long as the people in office want it to."
+    },
+    {
+      "speaker": "host_b",
+      "start": 635.432,
+      "end": 662.295,
+      "text": "That's the structural truth. The drafters in 1950 imagined a model where conventions would do most of the work \u2014 the PM would consult the opposition, the executive would respect the body's autonomy, the institution would have moral weight. Some of those conventions survived. Some didn't. And the real test of every one of these bodies is what happens the first time a government decides the convention is optional."
+    },
+    {
+      "speaker": "host_a",
+      "start": 662.495,
+      "end": 678.605,
+      "text": "Which is why the Anoop Baranwal story matters more than its legal details suggest. A court tried to write a convention into a rule. Parliament wrote a different rule. The next time a CEC has to call a ruling party out on a model code violation, we'll find out which rule won."
+    },
+    {
+      "speaker": "host_b",
+      "start": 678.605,
+      "end": 692.546,
+      "text": "And by then it'll be too late to argue about the committee composition. Which is, in some ways, the oldest lesson in Indian constitutional design \u2014 the rules you write in calm years are the ones you'll wish you'd written differently in the loud ones."
+    }
+  ]
+}

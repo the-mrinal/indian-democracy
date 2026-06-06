@@ -1,0 +1,276 @@
+{
+  "id": "14-local-government",
+  "title": "Local Self-Government: Panchayats & Nagar Palikas",
+  "section": "Local Government",
+  "kind": "chapter",
+  "duration": 646.35,
+  "audio": {
+    "mp3": "14-local-government.mp3",
+    "webm": "14-local-government.webm"
+  },
+  "cover": "14-local-government.png",
+  "voices": {
+    "host_a": "Kore",
+    "host_b": "Puck"
+  },
+  "turns": [
+    {
+      "speaker": "host_a",
+      "start": 0.0,
+      "end": 11.402,
+      "text": "Hi Aditya. Today's the tier of government most of us actually touch \u2014 the Gram Panchayat (gram pun-CHAH-yat), the Nagar Nigam (NUH-gur ni-GUM). The Sarpanch (SAR-punch), and the property tax notice that lands on your door."
+    },
+    {
+      "speaker": "host_b",
+      "start": 11.402,
+      "end": 29.138,
+      "text": "Hi Neha. And it's the tier we talk about the least. We obsess over the Lok Sabha (lohk SUB-hah) every five years, but the streetlight on your lane, whether the garbage gets picked up, whether the drinking water tank gets cleaned \u2014 that's all decided two stops below Delhi. By people most of us can't name."
+    },
+    {
+      "speaker": "host_a",
+      "start": 29.138,
+      "end": 40.54,
+      "text": "I'll be honest. I can name my MP. I can name my MLA. Ask me who runs my ward in Bengaluru and I'd have to Google it. And I think that's true for most urban Indians."
+    },
+    {
+      "speaker": "host_b",
+      "start": 40.54,
+      "end": 60.176,
+      "text": "Which is funny, because this tier was the slowest to even get constitutional status. For the first forty-five years of the Republic, local government sat in the Directive Principles \u2014 Article 40 \u2014 as a suggestion. Some states like Maharashtra and Gujarat had vibrant Panchayats. Others basically had none. It was a state subject, and states did whatever they liked with it."
+    },
+    {
+      "speaker": "host_a",
+      "start": 60.176,
+      "end": 62.393,
+      "text": "Until 1992. The 73rd and 74th Amendments."
+    },
+    {
+      "speaker": "host_b",
+      "start": 62.393,
+      "end": 85.513,
+      "text": "April 1993, technically, when they came into force. National Panchayati Raj Day is the 24th of April for that reason. And the path there is its own story \u2014 four committees over thirty-five years. Balwant Rai Mehta in '57 sketched the three-tier idea. Ashok Mehta in the late '70s pushed constitutional status. L.M. Singhvi in '86 wrote the blueprint that the Narasimha Rao government basically picked up and turned into the 73rd Amendment."
+    },
+    {
+      "speaker": "host_a",
+      "start": 85.513,
+      "end": 95.331,
+      "text": "Interesting timing though. The first big Panchayat experiment was Rajasthan in October 1959 \u2014 Nehru (NEH-roo) launching it himself. And then we waited basically a generation for it to become constitutional."
+    },
+    {
+      "speaker": "host_b",
+      "start": 95.331,
+      "end": 114.651,
+      "text": "Because as long as it was a state subject, every state did its own thing. Some had panchayats that elected, dissolved, didn't re-elect for a decade. The whole point of putting it in the Constitution was to take the discretion away \u2014 fixed five-year terms, mandatory elections, no more arbitrary supersession by a Chief Minister who didn't like the local result."
+    },
+    {
+      "speaker": "host_a",
+      "start": 114.851,
+      "end": 120.914,
+      "text": "So the structure that finally got locked in is three tiers. Walk me up from the village."
+    },
+    {
+      "speaker": "host_b",
+      "start": 120.914,
+      "end": 147.307,
+      "text": "At the base, the Gram Panchayat \u2014 roughly 2.5 lakh of them across India. Sarpanch is directly elected by the villagers, ward members the same way. Above that, the Panchayat Samiti, or Block, covering fifty to a hundred and fifty villages. At the top, the Zila Parishad (ZEE-lah pa-ri-SHUD), one per district, chairperson elected by the members. And small states under twenty lakh population \u2014 Goa, Sikkim, Mizoram \u2014 can skip the middle tier."
+    },
+    {
+      "speaker": "host_a",
+      "start": 147.307,
+      "end": 160.503,
+      "text": "The piece I want to dwell on is the Gram Sabha. Because this is the part urban listeners often miss. It's not a council of representatives. It's literally every adult voter in the village, sitting in session."
+    },
+    {
+      "speaker": "host_b",
+      "start": 160.503,
+      "end": 181.19,
+      "text": "Direct democracy, at scale. Article 243A. The Gram Sabha is the village's electorate meeting as a body, not delegating to anyone. It's where the beneficiary list for a welfare scheme gets read out \u2014 who gets the housing grant, who gets put on the MGNREGA muster roll. It's where the social audit happens. Or is supposed to happen."
+    },
+    {
+      "speaker": "host_a",
+      "start": 181.19,
+      "end": 185.113,
+      "text": "\"Supposed to\" is doing a lot of work in that sentence."
+    },
+    {
+      "speaker": "host_b",
+      "start": 185.113,
+      "end": 202.589,
+      "text": "It is. Because in practice attendance varies wildly. In Kerala, Gram Sabha meetings are reasonably alive. In large parts of north India they're a formality \u2014 minutes get written up, signatures get collected, the meeting itself barely happened. Yamini Aiyar's team at Accountability Initiative has documented this for years."
+    },
+    {
+      "speaker": "host_a",
+      "start": 202.589,
+      "end": 211.149,
+      "text": "Let me push on something though. The single biggest achievement of the 73rd Amendment, the one nobody disputes, is what it did for women."
+    },
+    {
+      "speaker": "host_b",
+      "start": 211.149,
+      "end": 228.982,
+      "text": "That's fair. The Amendment mandated that at least one-third of all directly elected seats be reserved for women. Not residual, not after the SC/ST math \u2014 one-third of the total. Plus one-third of chairperson posts. And twenty states, starting with Bihar in 2006, have since pushed that to fifty percent."
+    },
+    {
+      "speaker": "host_a",
+      "start": 229.182,
+      "end": 246.916,
+      "text": "Roughly 1.4 million women elected to local bodies. That's the number I keep coming back to. We argue endlessly about the women's reservation bill for Parliament \u2014 which won't kick in till after the next delimitation \u2014 and meanwhile this quiet revolution has been running in panchayats for thirty years."
+    },
+    {
+      "speaker": "host_b",
+      "start": 246.916,
+      "end": 272.453,
+      "text": "Quiet is the right word. Though I'd qualify it. The Sarpanch Pati problem is real \u2014 the husband of the elected woman Sarpanch running things in her name. It happens. But it's also not the whole story. There's solid research showing that women Sarpanches invest more in drinking water, in schools, in things that disproportionately affect women's daily lives. The institution changes the women, and over time the women change the institution."
+    },
+    {
+      "speaker": "host_a",
+      "start": 272.453,
+      "end": 284.158,
+      "text": "Okay, now the part where the gap shows up. The chapter talks about the 3Fs \u2014 Functions, Funds, Functionaries. This is the bit where local government on paper meets local government in practice."
+    },
+    {
+      "speaker": "host_b",
+      "start": 284.158,
+      "end": 300.473,
+      "text": "And meets it badly, in most states. The 73rd Amendment listed twenty-nine subjects in the Eleventh Schedule that *may* be devolved to Panchayats \u2014 agriculture, drinking water, primary education, health, the lot. The word is \"may\", not \"must\". So actual devolution was left to state legislatures."
+    },
+    {
+      "speaker": "host_a",
+      "start": 300.473,
+      "end": 304.374,
+      "text": "Which means the state government had to voluntarily give up power."
+    },
+    {
+      "speaker": "host_b",
+      "start": 304.374,
+      "end": 330.266,
+      "text": "To bodies controlled often by the opposition party in that district. So you can imagine the enthusiasm. Kerala and Karnataka devolved aggressively. Most large north Indian states devolved very little. Functions remain partly transferred, funds even less \u2014 most money still arrives as tied scheme grants \u2014 and functionaries, the actual staff, mostly remain state government employees on deputation. The Panchayat is the elected body but it doesn't really command its own bureaucracy."
+    },
+    {
+      "speaker": "host_a",
+      "start": 330.266,
+      "end": 341.971,
+      "text": "And the funds piece is the one where, even now, I see the cleanest gap. The State Finance Commission is supposed to do for Panchayats what the Union Finance Commission does for states."
+    },
+    {
+      "speaker": "host_b",
+      "start": 341.971,
+      "end": 361.833,
+      "text": "Constituted every five years, recommends devolution. The catch is the recommendations aren't binding. State governments can \u2014 and routinely do \u2014 sit on them, dilute them, delay constituting the next one. Compare that with the Union Finance Commission, whose awards are essentially sacrosanct. The asymmetry tells you everything about how seriously the third tier is taken."
+    },
+    {
+      "speaker": "host_a",
+      "start": 362.033,
+      "end": 366.958,
+      "text": "The 15th Finance Commission did try to push back on this, didn't it? Performance-linked grants."
+    },
+    {
+      "speaker": "host_b",
+      "start": 366.958,
+      "end": 390.929,
+      "text": "Roughly four lakh thirty-six thousand crore rupees across the rural and urban tiers for 2021 to 2026 \u2014 and chunks of it tied to outcomes. Hold your local elections on time, publish your audited accounts online, improve property tax collection, deliver on sanitation. Carrot for the local body to clean up its act. Whether the 16th Finance Commission, which is looking at 2026 to 2031, will sharpen that is the question to watch."
+    },
+    {
+      "speaker": "host_a",
+      "start": 390.929,
+      "end": 398.482,
+      "text": "Let me move to the cities, because that's where most of this podcast's listeners actually live. The 74th Amendment. Same year, parallel structure."
+    },
+    {
+      "speaker": "host_b",
+      "start": 398.482,
+      "end": 413.587,
+      "text": "Came into force on 1 June 1993. Three categories of urban local body \u2014 Nagar Panchayat for a settlement that's transitioning from rural to urban, Municipal Council for a smaller city, Municipal Corporation for a larger one. Twelfth Schedule with eighteen subjects, parallel to the Eleventh."
+    },
+    {
+      "speaker": "host_a",
+      "start": 413.587,
+      "end": 420.483,
+      "text": "And the one structural feature I want to highlight is the Ward Committee. Mandatory in every Municipality over three lakh population."
+    },
+    {
+      "speaker": "host_b",
+      "start": 420.483,
+      "end": 441.498,
+      "text": "Article 243-S. And in practice, if you live in Mumbai or Delhi or Bengaluru, you almost certainly have a Ward Committee notionally responsible for your neighbourhood \u2014 and you have probably never attended a meeting. Which, by the way, is your direct channel. Your equivalent of the Gram Sabha. The urban citizen's slot for showing up and asking why the road hasn't been resurfaced."
+    },
+    {
+      "speaker": "host_a",
+      "start": 441.498,
+      "end": 457.588,
+      "text": "And the gap between what cities are responsible for and what they can actually do is, if anything, wider than in the villages. Bengaluru's Mayor changes almost every year by rotation. The Mumbai municipal commissioner \u2014 the unelected IAS officer \u2014 has more real power than the elected corporators."
+    },
+    {
+      "speaker": "host_b",
+      "start": 457.588,
+      "end": 478.604,
+      "text": "That's the unkind truth of urban India. The Municipal Commissioner is appointed by the state government, controls the bureaucracy, controls the budget execution, and answers up \u2014 to the Chief Minister \u2014 rather than down to the elected council. So when your garbage doesn't get picked up, the corporator you elected can complain, but she can't actually fire anyone. The accountability loop is broken."
+    },
+    {
+      "speaker": "host_a",
+      "start": 478.804,
+      "end": 487.86,
+      "text": "One piece I want to make sure we cover \u2014 PESA. The 1996 law extending Panchayati Raj into Scheduled Areas, with modifications for tribal self-government."
+    },
+    {
+      "speaker": "host_b",
+      "start": 487.86,
+      "end": 505.61,
+      "text": "The Provisions of the Panchayats Extension to Scheduled Areas Act. Ten states with Fifth Schedule areas \u2014 Andhra, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Telangana, Himachal. PESA gives Gram Sabhas in those areas control over minor water bodies, minor minerals, and a consultative role in land acquisition."
+    },
+    {
+      "speaker": "host_a",
+      "start": 505.61,
+      "end": 506.696,
+      "text": "Consultation. Not consent."
+    },
+    {
+      "speaker": "host_b",
+      "start": 506.696,
+      "end": 529.155,
+      "text": "And that one-word distinction is where the whole edifice has wobbled. If a Gram Sabha had genuine consent over land acquisition, half the mining projects in Jharkhand and Chhattisgarh would look very different. Consultation means the Gram Sabha gets asked. It doesn't mean the answer is binding. That loophole has been litigated, criticised, written about endlessly \u2014 and it's still the law."
+    },
+    {
+      "speaker": "host_a",
+      "start": 529.155,
+      "end": 535.314,
+      "text": "So if I'm a listener wanting to actually engage with this tier, what are the concrete handles?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 535.314,
+      "end": 563.206,
+      "text": "Three. Vote in your Panchayat or Municipal election \u2014 they're every five years, conducted by the State Election Commission, which is a different body from the Election Commission of India. Show up to the Gram Sabha or Ward Committee meeting \u2014 that's your seat at the table. And file an RTI with your local body \u2014 ask what works were sanctioned in your area, how much was paid out, to whom. The information is, by law, yours."
+    },
+    {
+      "speaker": "host_a",
+      "start": 563.206,
+      "end": 578.058,
+      "text": "The thing I'm left with \u2014 after three decades of this experiment \u2014 is that the structures are there. Elections happen. Women fill the seats. The State Election Commissions function. But the substance, the actual money and authority, sits stubbornly upstream."
+    },
+    {
+      "speaker": "host_b",
+      "start": 578.058,
+      "end": 596.895,
+      "text": "And the next constitutional fight, when it comes, will probably be about putting a fiscal floor under local bodies \u2014 making the State Finance Commission's recommendations actually binding, the way the Union's are. Until that happens, the third tier remains a building with elected occupants and a landlord who keeps the keys."
+    },
+    {
+      "speaker": "host_a",
+      "start": 597.095,
+      "end": 614.608,
+      "text": "The thing the chapter notes \u2014 and I want to end on \u2014 is that there's a District Planning Committee meant to stitch the rural and urban plans together for the district as a whole. And in metropolitan areas, a Metropolitan Planning Committee, two-thirds elected from local body representatives."
+    },
+    {
+      "speaker": "host_b",
+      "start": 614.608,
+      "end": 632.836,
+      "text": "On paper. Almost nowhere in practice. Most cities don't have a functioning Metropolitan Planning Committee. Which is why your Bengaluru or your Hyderabad sprawls without anybody really planning the joins between the corporation, the surrounding panchayats, the cantonment, the development authority. The constitutional design imagined coherence. The implementation produced jurisdictional confetti."
+    },
+    {
+      "speaker": "host_a",
+      "start": 632.836,
+      "end": 645.346,
+      "text": "And in the meantime, somewhere this morning, a Gram Sabha is sitting in a courtyard deciding who gets the next round of MGNREGA work. Whether anyone in the capital is listening is a separate question."
+    }
+  ]
+}

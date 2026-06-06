@@ -7,3 +7,13 @@ venv/
 .idea/
 .vscode/
 *.log
+
+# Phase-0 spike workspace (throwaway, not deployed)
+tmp/
+
+# Build-time audio cache (regenerable; recreated by docs/build_audio.py)
+docs/.cache/
+
+# Local env / secrets
+.env
+.env.*

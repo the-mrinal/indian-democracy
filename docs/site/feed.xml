@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Indian Democracy: A Complete Guide</title>
+    <link>https://mrinalchandra.github.io/indian-democracy/</link>
+    <description>Two-host conversational audio companion to a 19-chapter guide on India's democracy.</description>
+    <language>en-IN</language>
+    <itunes:author>Indian Democracy Guide</itunes:author>
+    <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/icons/1024.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Government"/>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Introduction: India as a Democracy</title>
+      <description>Foundations</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/01-introduction.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">01-introduction</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/01-introduction.png"/>
+      <itunes:duration>481</itunes:duration>
+    </item>
+    <item>
+      <title>The Constitution: Birth, Structure, Soul</title>
+      <description>Foundations</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/02-constitution.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">02-constitution</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/02-constitution.png"/>
+      <itunes:duration>694</itunes:duration>
+    </item>
+    <item>
+      <title>Rights, Duties &amp; Directive Principles</title>
+      <description>Foundations</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/03-rights-duties-dpsp.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">03-rights-duties-dpsp</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/03-rights-duties-dpsp.png"/>
+      <itunes:duration>783</itunes:duration>
+    </item>
+    <item>
+      <title>Federalism: Union, States, UTs</title>
+      <description>Foundations</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/04-federalism.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">04-federalism</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/04-federalism.png"/>
+      <itunes:duration>637</itunes:duration>
+    </item>
+    <item>
+      <title>Union Executive: President, VP, PM, Cabinet</title>
+      <description>Union Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/05-union-executive.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">05-union-executive</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/05-union-executive.png"/>
+      <itunes:duration>672</itunes:duration>
+    </item>
+    <item>
+      <title>Lok Sabha — The House of the People</title>
+      <description>Union Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/06-lok-sabha.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">06-lok-sabha</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/06-lok-sabha.png"/>
+      <itunes:duration>645</itunes:duration>
+    </item>
+    <item>
+      <title>Rajya Sabha — The Council of States</title>
+      <description>Union Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/07-rajya-sabha.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">07-rajya-sabha</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/07-rajya-sabha.png"/>
+      <itunes:duration>592</itunes:duration>
+    </item>
+    <item>
+      <title>How a Bill Becomes Law</title>
+      <description>Union Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/08-how-bill-becomes-law.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">08-how-bill-becomes-law</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/08-how-bill-becomes-law.png"/>
+      <itunes:duration>558</itunes:duration>
+    </item>
+    <item>
+      <title>State Government: Governor, CM, MLAs</title>
+      <description>State Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/09-state-government.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">09-state-government</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/09-state-government.png"/>
+      <itunes:duration>660</itunes:duration>
+    </item>
+    <item>
+      <title>The Judiciary: Supreme Court &amp; High Courts</title>
+      <description>Other Pillars</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/10-judiciary.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">10-judiciary</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/10-judiciary.png"/>
+      <itunes:duration>657</itunes:duration>
+    </item>
+    <item>
+      <title>Election Commission &amp; Constitutional Bodies</title>
+      <description>Other Pillars</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/11-eci-and-bodies.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">11-eci-and-bodies</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/11-eci-and-bodies.png"/>
+      <itunes:duration>694</itunes:duration>
+    </item>
+    <item>
+      <title>How an Indian Election Actually Runs</title>
+      <description>Elections</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/12-how-elections-work.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">12-how-elections-work</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/12-how-elections-work.png"/>
+      <itunes:duration>661</itunes:duration>
+    </item>
+    <item>
+      <title>Electoral Systems: FPTP, STV &amp; the Math</title>
+      <description>Elections</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/13-electoral-math.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">13-electoral-math</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/13-electoral-math.png"/>
+      <itunes:duration>629</itunes:duration>
+    </item>
+    <item>
+      <title>Local Self-Government: Panchayats &amp; Nagar Palikas</title>
+      <description>Local Government</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/14-local-government.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">14-local-government</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/14-local-government.png"/>
+      <itunes:duration>646</itunes:duration>
+    </item>
+    <item>
+      <title>Political Parties &amp; the Anti-Defection Law</title>
+      <description>Politics in Practice</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/15-parties-and-defection.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">15-parties-and-defection</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/15-parties-and-defection.png"/>
+      <itunes:duration>606</itunes:duration>
+    </item>
+    <item>
+      <title>Money in Politics: Finance, Bonds, Criminalisation</title>
+      <description>Politics in Practice</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/16-money-in-politics.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">16-money-in-politics</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/16-money-in-politics.png"/>
+      <itunes:duration>638</itunes:duration>
+    </item>
+    <item>
+      <title>Ground-Level Campaign Execution</title>
+      <description>Politics in Practice</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/17-ground-execution.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">17-ground-execution</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/17-ground-execution.png"/>
+      <itunes:duration>654</itunes:duration>
+    </item>
+    <item>
+      <title>Recent Elections: 2024 LS → 2026 State Cycle</title>
+      <description>Today</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/18-recent-elections.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">18-recent-elections</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/18-recent-elections.png"/>
+      <itunes:duration>625</itunes:duration>
+    </item>
+    <item>
+      <title>Glossary, Timeline &amp; References</title>
+      <description>Reference</description>
+      <enclosure url="https://mrinalchandra.github.io/indian-democracy/assets/podcast/19-glossary-references.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">19-glossary-references</guid>
+      <pubDate>Sat, 06 Jun 2026 09:58:42 GMT</pubDate>
+      <itunes:image href="https://mrinalchandra.github.io/indian-democracy/assets/podcast/19-glossary-references.png"/>
+      <itunes:duration>428</itunes:duration>
+    </item>
+  </channel>
+</rss>

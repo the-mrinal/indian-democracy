@@ -1,0 +1,230 @@
+[
+  {
+    "id": "01-introduction",
+    "title": "Introduction: India as a Democracy",
+    "section": "Foundations",
+    "kind": "chapter",
+    "duration": 480.52,
+    "audio": {
+      "mp3": "01-introduction.mp3",
+      "webm": "01-introduction.webm"
+    },
+    "cover": "01-introduction.png"
+  },
+  {
+    "id": "02-constitution",
+    "title": "The Constitution: Birth, Structure, Soul",
+    "section": "Foundations",
+    "kind": "chapter",
+    "duration": 693.69,
+    "audio": {
+      "mp3": "02-constitution.mp3",
+      "webm": "02-constitution.webm"
+    },
+    "cover": "02-constitution.png"
+  },
+  {
+    "id": "03-rights-duties-dpsp",
+    "title": "Rights, Duties & Directive Principles",
+    "section": "Foundations",
+    "kind": "chapter",
+    "duration": 783.35,
+    "audio": {
+      "mp3": "03-rights-duties-dpsp.mp3",
+      "webm": "03-rights-duties-dpsp.webm"
+    },
+    "cover": "03-rights-duties-dpsp.png"
+  },
+  {
+    "id": "04-federalism",
+    "title": "Federalism: Union, States, UTs",
+    "section": "Foundations",
+    "kind": "chapter",
+    "duration": 636.93,
+    "audio": {
+      "mp3": "04-federalism.mp3",
+      "webm": "04-federalism.webm"
+    },
+    "cover": "04-federalism.png"
+  },
+  {
+    "id": "05-union-executive",
+    "title": "Union Executive: President, VP, PM, Cabinet",
+    "section": "Union Government",
+    "kind": "chapter",
+    "duration": 672.03,
+    "audio": {
+      "mp3": "05-union-executive.mp3",
+      "webm": "05-union-executive.webm"
+    },
+    "cover": "05-union-executive.png"
+  },
+  {
+    "id": "06-lok-sabha",
+    "title": "Lok Sabha \u2014 The House of the People",
+    "section": "Union Government",
+    "kind": "chapter",
+    "duration": 645.29,
+    "audio": {
+      "mp3": "06-lok-sabha.mp3",
+      "webm": "06-lok-sabha.webm"
+    },
+    "cover": "06-lok-sabha.png"
+  },
+  {
+    "id": "07-rajya-sabha",
+    "title": "Rajya Sabha \u2014 The Council of States",
+    "section": "Union Government",
+    "kind": "chapter",
+    "duration": 591.89,
+    "audio": {
+      "mp3": "07-rajya-sabha.mp3",
+      "webm": "07-rajya-sabha.webm"
+    },
+    "cover": "07-rajya-sabha.png"
+  },
+  {
+    "id": "08-how-bill-becomes-law",
+    "title": "How a Bill Becomes Law",
+    "section": "Union Government",
+    "kind": "chapter",
+    "duration": 558.45,
+    "audio": {
+      "mp3": "08-how-bill-becomes-law.mp3",
+      "webm": "08-how-bill-becomes-law.webm"
+    },
+    "cover": "08-how-bill-becomes-law.png"
+  },
+  {
+    "id": "09-state-government",
+    "title": "State Government: Governor, CM, MLAs",
+    "section": "State Government",
+    "kind": "chapter",
+    "duration": 659.53,
+    "audio": {
+      "mp3": "09-state-government.mp3",
+      "webm": "09-state-government.webm"
+    },
+    "cover": "09-state-government.png"
+  },
+  {
+    "id": "10-judiciary",
+    "title": "The Judiciary: Supreme Court & High Courts",
+    "section": "Other Pillars",
+    "kind": "chapter",
+    "duration": 657.09,
+    "audio": {
+      "mp3": "10-judiciary.mp3",
+      "webm": "10-judiciary.webm"
+    },
+    "cover": "10-judiciary.png"
+  },
+  {
+    "id": "11-eci-and-bodies",
+    "title": "Election Commission & Constitutional Bodies",
+    "section": "Other Pillars",
+    "kind": "chapter",
+    "duration": 693.55,
+    "audio": {
+      "mp3": "11-eci-and-bodies.mp3",
+      "webm": "11-eci-and-bodies.webm"
+    },
+    "cover": "11-eci-and-bodies.png"
+  },
+  {
+    "id": "12-how-elections-work",
+    "title": "How an Indian Election Actually Runs",
+    "section": "Elections",
+    "kind": "chapter",
+    "duration": 660.99,
+    "audio": {
+      "mp3": "12-how-elections-work.mp3",
+      "webm": "12-how-elections-work.webm"
+    },
+    "cover": "12-how-elections-work.png"
+  },
+  {
+    "id": "13-electoral-math",
+    "title": "Electoral Systems: FPTP, STV & the Math",
+    "section": "Elections",
+    "kind": "chapter",
+    "duration": 629.12,
+    "audio": {
+      "mp3": "13-electoral-math.mp3",
+      "webm": "13-electoral-math.webm"
+    },
+    "cover": "13-electoral-math.png"
+  },
+  {
+    "id": "14-local-government",
+    "title": "Local Self-Government: Panchayats & Nagar Palikas",
+    "section": "Local Government",
+    "kind": "chapter",
+    "duration": 646.35,
+    "audio": {
+      "mp3": "14-local-government.mp3",
+      "webm": "14-local-government.webm"
+    },
+    "cover": "14-local-government.png"
+  },
+  {
+    "id": "15-parties-and-defection",
+    "title": "Political Parties & the Anti-Defection Law",
+    "section": "Politics in Practice",
+    "kind": "chapter",
+    "duration": 605.8,
+    "audio": {
+      "mp3": "15-parties-and-defection.mp3",
+      "webm": "15-parties-and-defection.webm"
+    },
+    "cover": "15-parties-and-defection.png"
+  },
+  {
+    "id": "16-money-in-politics",
+    "title": "Money in Politics: Finance, Bonds, Criminalisation",
+    "section": "Politics in Practice",
+    "kind": "chapter",
+    "duration": 637.99,
+    "audio": {
+      "mp3": "16-money-in-politics.mp3",
+      "webm": "16-money-in-politics.webm"
+    },
+    "cover": "16-money-in-politics.png"
+  },
+  {
+    "id": "17-ground-execution",
+    "title": "Ground-Level Campaign Execution",
+    "section": "Politics in Practice",
+    "kind": "chapter",
+    "duration": 654.07,
+    "audio": {
+      "mp3": "17-ground-execution.mp3",
+      "webm": "17-ground-execution.webm"
+    },
+    "cover": "17-ground-execution.png"
+  },
+  {
+    "id": "18-recent-elections",
+    "title": "Recent Elections: 2024 LS \u2192 2026 State Cycle",
+    "section": "Today",
+    "kind": "chapter",
+    "duration": 625.16,
+    "audio": {
+      "mp3": "18-recent-elections.mp3",
+      "webm": "18-recent-elections.webm"
+    },
+    "cover": "18-recent-elections.png"
+  },
+  {
+    "id": "19-glossary-references",
+    "title": "Glossary, Timeline & References",
+    "section": "Reference",
+    "kind": "chapter",
+    "duration": 428.48,
+    "audio": {
+      "mp3": "19-glossary-references.mp3",
+      "webm": "19-glossary-references.webm"
+    },
+    "cover": "19-glossary-references.png"
+  }
+]

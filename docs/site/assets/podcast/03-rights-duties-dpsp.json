@@ -1,0 +1,264 @@
+{
+  "id": "03-rights-duties-dpsp",
+  "title": "Rights, Duties & Directive Principles",
+  "section": "Foundations",
+  "kind": "chapter",
+  "duration": 783.35,
+  "audio": {
+    "mp3": "03-rights-duties-dpsp.mp3",
+    "webm": "03-rights-duties-dpsp.webm"
+  },
+  "cover": "03-rights-duties-dpsp.png",
+  "voices": {
+    "host_a": "Kore",
+    "host_b": "Puck"
+  },
+  "turns": [
+    {
+      "speaker": "host_a",
+      "start": 0.0,
+      "end": 10.749,
+      "text": "Hi Aditya. Today's the chapter I've been waiting for \u2014 Rights, Duties, Directive Principles. Three lists in the Constitution that look similar on paper, but only one of them you can actually take to court."
+    },
+    {
+      "speaker": "host_b",
+      "start": 10.749,
+      "end": 32.554,
+      "text": "Hi Neha. That's the right framing to start with, because most people lump them all under \"constitutional values\" and assume they all have the same weight. They don't. Part III you can enforce. Part IV the State is supposed to aim at. Part IVA is essentially the Constitution telling you, the citizen, to behave \u2014 but with no penalty if you don't. Three completely different legal animals dressed in similar language."
+    },
+    {
+      "speaker": "host_a",
+      "start": 32.554,
+      "end": 45.76,
+      "text": "So let's begin with the one with teeth. Fundamental Rights, Part III, Articles 12 to 35. Ambedkar (AHM-bed-kar) called Article 32 the heart and soul of the Constitution. Why that one specifically \u2014 not Article 14 or 21, which are the famous ones?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 45.76,
+      "end": 69.408,
+      "text": "Because without Article 32 the rest are just sentences in a book. Article 32 is the door into the Supreme Court. If the State violates your fundamental right \u2014 arrests you without grounds, censors you, denies you equality \u2014 you don't have to file at a district court and climb your way up over fifteen years. You go straight to the top. That's the architecture Ambedkar was protecting. The right to a remedy is itself a right."
+    },
+    {
+      "speaker": "host_a",
+      "start": 69.408,
+      "end": 81.692,
+      "text": "And the Court can issue five writs. The one I keep seeing in headlines \u2014 election season, protest crackdowns, students picked up at midnight \u2014 is habeas corpus (HAY-bee-as KOR-pus). \"Produce the body.\" That phrasing always sounded medieval to me."
+    },
+    {
+      "speaker": "host_b",
+      "start": 81.692,
+      "end": 95.512,
+      "text": "It is medieval. Borrowed almost word for word from English common law. The other four \u2014 mandamus, prohibition, certiorari (sur-shee-oh-RAH-ree), quo warranto \u2014 same lineage. The Constitution imported a toolkit that took seven hundred years to develop in England, and bolted it on day one."
+    },
+    {
+      "speaker": "host_a",
+      "start": 95.512,
+      "end": 106.569,
+      "text": "One thing tripped me up though. Article 226 \u2014 High Courts can issue the same writs, but for the enforcement of any legal right, not just fundamental ones. So Article 226 is wider than Article 32?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 106.569,
+      "end": 126.531,
+      "text": "In scope, yes. Which is counter-intuitive \u2014 most people assume the Supreme Court can do more than the High Courts. Under the writ jurisdiction, the High Court actually reaches further. Article 32 is narrower but goes to a higher forum. So if your fundamental right is violated, you have a choice. If it's some other legal right, the High Court is your only writ option."
+    },
+    {
+      "speaker": "host_a",
+      "start": 126.731,
+      "end": 146.72,
+      "text": "Let's walk through what's actually in Part III. Right to Equality \u2014 Articles 14 to 18. Equality before the law, no discrimination on religion, caste, sex, place of birth, and the abolition of untouchability under Article 17. But then 15(4) and 16(4) allow reservations. That tension is the whole Mandal (mun-DUL) argument, isn't it?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 146.72,
+      "end": 178.924,
+      "text": "It is. And the chapter notes that the 103rd Amendment in 2019 extended reservation to Economically Weaker Sections \u2014 that's the first time economic criteria, not caste, became a constitutional ground for reservation. Which philosophically is a big shift. Article 15 says you can't discriminate on grounds of religion, race, caste, sex or place of birth \u2014 but the same article also permits the State to make special provisions. The Constitution is holding two ideas at once, and the courts have been refereeing that for sixty years."
+    },
+    {
+      "speaker": "host_a",
+      "start": 178.924,
+      "end": 192.62,
+      "text": "Then Right to Freedom, Articles 19 to 22. Six freedoms under 19(1). Speech, assembly, association, movement, residence, profession. But every single one has a \"reasonable restrictions\" clause attached. That word \"reasonable\" is doing a lot of work."
+    },
+    {
+      "speaker": "host_b",
+      "start": 192.62,
+      "end": 218.161,
+      "text": "Enormous work. Sovereignty, integrity, public order, decency, morality, contempt of court, defamation, incitement \u2014 that's the list in 19(2) through 19(6). Almost any restriction can be argued to fit somewhere in there. The freedoms aren't absolute, and they were never designed to be. The interesting question is who decides what counts as \"reasonable\" \u2014 and the answer, ultimately, is the same courts you'd be appealing to under Article 32."
+    },
+    {
+      "speaker": "host_a",
+      "start": 218.161,
+      "end": 228.155,
+      "text": "Quick aside, because this surprised me. Right to property used to be a fundamental right. Article 19(1)(f). And it was removed in 1978 by the 44th Amendment."
+    },
+    {
+      "speaker": "host_b",
+      "start": 228.155,
+      "end": 252.586,
+      "text": "Removed by the Janata government, post-Emergency. Property is now only a constitutional right under Article 300A \u2014 \"no person shall be deprived of his property save by authority of law.\" Which means if the government acquires your land, you can't run to the Supreme Court under Article 32 the way you could before 1978. That single deletion changed the entire politics of land acquisition in India."
+    },
+    {
+      "speaker": "host_a",
+      "start": 252.586,
+      "end": 265.911,
+      "text": "And then there's Article 21. \"No person shall be deprived of his life or personal liberty except according to procedure established by law.\" Seventeen words. And the Supreme Court has read an entire universe into them."
+    },
+    {
+      "speaker": "host_b",
+      "start": 265.911,
+      "end": 290.342,
+      "text": "That's the most expansive article in the document. Privacy was read into Article 21 in Puttaswamy (puh-tah-SWAH-mee) 2017 \u2014 a unanimous nine-judge bench. Before that, the Court had read in livelihood, shelter, education, health, clean environment, speedy trial. The literal text says nothing about any of these. Article 21 is, in a real sense, whatever the Supreme Court has said it is on a given Tuesday."
+    },
+    {
+      "speaker": "host_a",
+      "start": 290.542,
+      "end": 303.789,
+      "text": "I want to push back a little there. Doesn't that worry you? Seventeen words being stretched to cover almost any social good \u2014 it starts to look less like interpretation and more like legislation by judges."
+    },
+    {
+      "speaker": "host_b",
+      "start": 303.789,
+      "end": 329.915,
+      "text": "It's a fair criticism, made for decades. The defence is that Parliament often fails to legislate where it should, and Article 21 became the gap-filler. Privacy is the cleanest example \u2014 there was no statute, the government was rolling out Aadhaar, somebody had to draw the line. The price you pay for that flexibility is exactly what you're describing \u2014 a creeping uncertainty about where rights end and judicial preference begins."
+    },
+    {
+      "speaker": "host_a",
+      "start": 329.915,
+      "end": 347.945,
+      "text": "And then 21A \u2014 added by the 86th Amendment in 2002 \u2014 made free and compulsory education for children six to fourteen a fundamental right. Which the RTE Act in 2009 actually operationalised. That's the rare case where the Constitution was amended to add a right, not delete one."
+    },
+    {
+      "speaker": "host_b",
+      "start": 347.945,
+      "end": 364.872,
+      "text": "And 21A used to be a Directive Principle. It moved across the wall \u2014 from the non-enforceable list to the enforceable one. That migration is rare. One of the few moments the Indian State said, this isn't an aspiration any more, this is now a guarantee."
+    },
+    {
+      "speaker": "host_a",
+      "start": 364.872,
+      "end": 382.167,
+      "text": "That's a perfect bridge to Part IV. Directive Principles. Borrowed from the Irish Constitution. Article 37 says they are \"fundamental in the governance of the country\" but \"not enforceable by any court.\" That sentence is almost a contradiction. Fundamental but unenforceable. How does anyone take them seriously?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 382.167,
+      "end": 416.756,
+      "text": "The honest answer is: sometimes they don't. A government can ignore the Directive Principles and no court will stop them. But the chapter classifies them into three buckets which is useful. Socialist \u2014 Articles 38 to 43A \u2014 welfare, equal pay, living wage, legal aid. Gandhian \u2014 village panchayats under Article 40, prohibition under 47, cow slaughter under 48. Liberal-intellectual \u2014 Uniform Civil Code under 44, separation of judiciary from executive under 50, international peace under 51. It's basically every political ideology that contested the freedom struggle, packed into one Part of the Constitution."
+    },
+    {
+      "speaker": "host_a",
+      "start": 416.756,
+      "end": 428.531,
+      "text": "Which is why they sometimes contradict each other. Article 47 wants prohibition. Article 48 wants cow slaughter banned. Article 44 wants a Uniform Civil Code. Those are three completely different political projects."
+    },
+    {
+      "speaker": "host_b",
+      "start": 428.531,
+      "end": 453.553,
+      "text": "And that's the elegant thing about making them non-justiciable. If they were enforceable, the courts would have to pick winners between Gandhi and Nehru (NEH-roo) every other Tuesday. By keeping them as directives, the Constitution lets each elected government decide which ones to prioritise. The UPA emphasised right to work and food security. The current government has emphasised UCC and cooperative societies under 43B. Same list, different priorities."
+    },
+    {
+      "speaker": "host_a",
+      "start": 453.753,
+      "end": 473.631,
+      "text": "But what happens when a Directive Principle and a Fundamental Right actually clash in court? Because they will. Article 39 says no concentration of wealth \u2014 which could justify aggressive land reform. Article 19 protects your right to carry on a trade. The State pulls one way, the citizen the other."
+    },
+    {
+      "speaker": "host_b",
+      "start": 473.631,
+      "end": 501.694,
+      "text": "That fight ran for thirty years. The 42nd Amendment, in 1976, inserted Article 31C and basically said: if a law implements a Directive Principle, it gets immunity from Fundamental Rights challenges. That was the high-water mark of DPSP supremacy. And then in 1980, Minerva Mills cut it back. The Supreme Court said the balance between Part III and Part IV is itself part of the basic structure. Neither can extinguish the other."
+    },
+    {
+      "speaker": "host_a",
+      "start": 501.694,
+      "end": 506.761,
+      "text": "Which is a very Indian answer. Don't resolve the contradiction \u2014 institutionalise it."
+    },
+    {
+      "speaker": "host_b",
+      "start": 506.761,
+      "end": 511.438,
+      "text": "That's a fair summary of about ninety percent of the Constitution, actually."
+    },
+    {
+      "speaker": "host_a",
+      "start": 511.438,
+      "end": 530.926,
+      "text": "Last list. Fundamental Duties. Part IVA, Article 51A. Eleven of them now, after the eleventh was added in 2002. Added by the 42nd Amendment in 1976, on the recommendation of the Swaran Singh Committee, inspired by the USSR Constitution. That lineage alone tells you something about when they came in."
+    },
+    {
+      "speaker": "host_b",
+      "start": 530.926,
+      "end": 563.666,
+      "text": "It tells you they came in during the Emergency. The original Constitution didn't have fundamental duties at all. The framers consciously chose to focus on rights against the State, not obligations from the citizen. The 42nd Amendment, passed by an Indira Gandhi government with no functional opposition, decided to balance the ledger. Respect the flag, defend the country, promote harmony, develop scientific temper, safeguard public property \u2014 and the 2002 addition, provide education to your child between six and fourteen, which mirrors Article 21A."
+    },
+    {
+      "speaker": "host_a",
+      "start": 563.666,
+      "end": 573.02,
+      "text": "And the catch is, there's no penalty. None of these are enforceable. So what's the point? Why have them in the Constitution at all?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 573.02,
+      "end": 599.524,
+      "text": "The honest answer \u2014 they function more as a moral charter than a legal one. Parliament has passed statutes that reflect some of them \u2014 laws against insulting the flag, against damaging public property, environmental laws that echo 51A(g). The duties aren't entirely toothless, but the teeth live in other statutes, not in 51A itself. They are the Constitution's wish list for what a good citizen looks like."
+    },
+    {
+      "speaker": "host_a",
+      "start": 599.724,
+      "end": 622.674,
+      "text": "I want to come back to one thing though. Religion. Articles 25 to 28. Freedom of conscience, free profession, practice and propagation. And then Article 27 \u2014 you cannot be compelled to pay a tax for the promotion of any religion. Article 28 \u2014 no religious instruction in fully state-funded schools. That's a much sharper separation of religion and State than people credit the Constitution with."
+    },
+    {
+      "speaker": "host_b",
+      "start": 622.674,
+      "end": 649.101,
+      "text": "Sharper than the popular image of Indian secularism. People describe the Indian model as \"equal respect for all religions.\" The actual text is more austere \u2014 the State doesn't fund religion through taxation, doesn't preach religion in its own schools, doesn't pick favourites. And then Articles 29 and 30 give linguistic and religious minorities the right to run their own educational institutions. That's the bargain \u2014 strict separation in State spaces, real autonomy in minority spaces."
+    },
+    {
+      "speaker": "host_a",
+      "start": 649.101,
+      "end": 663.706,
+      "text": "Which is also why Article 44 \u2014 the Uniform Civil Code \u2014 sits in the Directive Principles and not the Fundamental Rights. If it were enforceable, that minority autonomy under Article 30 would be in direct conflict with it on day one."
+    },
+    {
+      "speaker": "host_b",
+      "start": 663.706,
+      "end": 689.09,
+      "text": "And that's the cleanest illustration of why the framers split the lists. UCC was politically explosive in 1950. It's still politically explosive in 2026. So they put it on the wish list \u2014 fundamental in governance, but not enforceable. Every government for seventy-six years has had to take a position on it without ever being forced by a court to deliver it. That is, in its own way, a piece of design genius."
+    },
+    {
+      "speaker": "host_a",
+      "start": 689.09,
+      "end": 708.562,
+      "text": "One more thing on Part III before we close \u2014 Right against Exploitation. Article 23 prohibits human trafficking and forced labour, what the chapter calls begar (BAY-gar). Article 24 prohibits employment of children below fourteen in factories, mines, hazardous work. Those two articles, in a country with the labour history India has, are doing extraordinary work."
+    },
+    {
+      "speaker": "host_b",
+      "start": 708.562,
+      "end": 727.34,
+      "text": "And they're under-discussed because most middle-class conversations about fundamental rights start and end at free speech. Article 23 makes bonded labour unconstitutional. Article 24 makes child labour in hazardous industries a violation of the Constitution itself, not just a statutory offence. The right against exploitation is, quietly, the most radical part of the document."
+    },
+    {
+      "speaker": "host_a",
+      "start": 727.34,
+      "end": 743.335,
+      "text": "Which makes the architecture of these three lists really clear, when you lay them next to each other. The State must not violate Part III. The State should pursue Part IV. The citizen ought to honour Part IVA. Three different verbs. Three different forums. One Constitution."
+    },
+    {
+      "speaker": "host_b",
+      "start": 743.335,
+      "end": 769.415,
+      "text": "And the unresolved question \u2014 the one I think we'll keep coming back to \u2014 is which of these moves next. Right to Education made the jump from Part IV to Part III in 2002. Is right to health next? Right to a clean environment, given how Delhi winters look now? The wall between the aspirational and the enforceable isn't fixed. It's been moved before, and there's no reason to believe it won't move again."
+    },
+    {
+      "speaker": "host_a",
+      "start": 769.615,
+      "end": 782.346,
+      "text": "And when it does move, the courts will have done most of the work before Parliament catches up. Which brings us back to Article 32, and the seventeen words of Article 21, doing more than they were ever written to do."
+    }
+  ]
+}

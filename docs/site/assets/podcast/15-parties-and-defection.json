@@ -1,0 +1,180 @@
+{
+  "id": "15-parties-and-defection",
+  "title": "Political Parties & the Anti-Defection Law",
+  "section": "Politics in Practice",
+  "kind": "chapter",
+  "duration": 605.8,
+  "audio": {
+    "mp3": "15-parties-and-defection.mp3",
+    "webm": "15-parties-and-defection.webm"
+  },
+  "cover": "15-parties-and-defection.png",
+  "voices": {
+    "host_a": "Kore",
+    "host_b": "Puck"
+  },
+  "turns": [
+    {
+      "speaker": "host_a",
+      "start": 0.0,
+      "end": 13.828,
+      "text": "Hi Aditya. I want to start with a strange fact \u2014 the original Constitution doesn't mention political parties at all. And yet you can't watch ten minutes of Indian news without one MLA being escorted to a resort in another state."
+    },
+    {
+      "speaker": "host_b",
+      "start": 13.828,
+      "end": 44.181,
+      "text": "Hi Neha. That gap is the whole story of this chapter. The drafters in 1950 imagined independent legislators voting on the merits of each bill. The reality, within a decade, was that no government in India runs without a party \u2014 and by the late sixties, MLAs were switching parties so often that one man in Haryana, Gaya Lal, changed sides three times in a fortnight. That's where the phrase \"Aaya Ram, Gaya Ram\" comes from. The Anti-Defection Law is the Constitution catching up to that phrase, thirty-five years late."
+    },
+    {
+      "speaker": "host_a",
+      "start": 44.181,
+      "end": 54.299,
+      "text": "Before we get to the law that punishes party-switching, let's start at the beginning. How does a party even exist in legal terms? My uncle keeps threatening to start one."
+    },
+    {
+      "speaker": "host_b",
+      "start": 54.299,
+      "end": 81.954,
+      "text": "Tell him it's ten thousand rupees and a lot of paperwork. You register under Section 29A of the Representation of the People Act, 1951, with the Election Commission. File within thirty days of forming, publish the proposed name in two national and two local newspapers inviting objections, collect affidavits from at least a hundred members, pay the fee. That's it \u2014 you are now a registered political party. Which is presumably why there are thousands of them nobody has ever heard of."
+    },
+    {
+      "speaker": "host_a",
+      "start": 81.954,
+      "end": 98.142,
+      "text": "So registration is the easy floor. The higher bar is recognition \u2014 and that's where the symbol comes in. Which matters more than urban voters realise. My grandmother in our village voted by symbol her whole life \u2014 she couldn't read the ballot, but she knew the hand."
+    },
+    {
+      "speaker": "host_b",
+      "start": 98.142,
+      "end": 135.916,
+      "text": "That's exactly why the Election Symbols Order of 1968 exists. In a country where literacy was under thirty percent at independence, the symbol wasn't decorative \u2014 it was the ballot. Recognition is what gets you a reserved symbol nobody else can use \u2014 a lotus, a hand, a broom \u2014 plus free airtime on Doordarshan and All India Radio during campaigns, free copies of electoral rolls, and forty star campaigners instead of twenty. The reserved symbol is a permanent, recognisable brand the Election Commission protects on your behalf. Which is why fights over who owns the \"bow and arrow\" or the \"clock\" become Supreme Court matters \u2014 we'll come back to those."
+    },
+    {
+      "speaker": "host_a",
+      "start": 135.916,
+      "end": 140.974,
+      "text": "So who counts as a \"national\" party right now? The list seems to keep shrinking."
+    },
+    {
+      "speaker": "host_b",
+      "start": 140.974,
+      "end": 180.771,
+      "text": "It does. The Election Commission reviews this periodically, and the criteria are specific \u2014 a party qualifies if it gets at least six percent of valid votes in four or more states plus four Lok Sabha (lohk SUB-hah) seats, or two percent of Lok Sabha seats spread across three different states, or is recognised as a state party in at least four states. After the April 2023 review, there are six that qualify \u2014 the BJP, Congress, CPI(M), BSP, the National People's Party from the North-East, and AAP, which crossed the threshold for the first time on the strength of its Punjab sweep. The same review stripped national status from the CPI, the NCP, and the Trinamool Congress."
+    },
+    {
+      "speaker": "host_a",
+      "start": 180.971,
+      "end": 191.626,
+      "text": "That's striking. Mamata Banerjee's party runs West Bengal and is technically not a national party anymore. So the test isn't about how powerful you are \u2014 it's about how geographically spread you are."
+    },
+    {
+      "speaker": "host_b",
+      "start": 191.626,
+      "end": 230.37,
+      "text": "Right. You can be hegemonic in one state and still lose the label. The criteria reward parties that compete across India, not parties that own a single state. And then there's the money side, which is bluntly generous. Under Section 13A of the Income-tax Act, a registered party pays zero tax \u2014 on rental income, on donations, on capital gains, all exempt \u2014 provided it keeps books, gets them audited, records the name and address of every donor giving above twenty thousand rupees, and accepts nothing above two thousand in cash. The chapter notes that during the electoral bonds era, even the donor-disclosure rule was carved out for bond contributions. So the transparency floor was lower than most people realise."
+    },
+    {
+      "speaker": "host_a",
+      "start": 230.37,
+      "end": 241.347,
+      "text": "And the star campaigner rule is the other quietly enormous subsidy. Every election I see Modi or Rahul Gandhi flying between four states in a day, and I wonder who pays for the helicopter."
+    },
+    {
+      "speaker": "host_b",
+      "start": 241.347,
+      "end": 270.082,
+      "text": "Under Section 77, a recognised party's forty star campaigners can fly around the country without their travel being charged to any individual candidate's expense limit. But \u2014 and this is the gotcha \u2014 if the star campaigner shares the dais with a specific candidate, or asks voters to vote for that candidate by name, the meeting cost gets apportioned back. If the candidate travels in the same helicopter, fifty percent of the travel lands on their account. Campaign accountants spend a lot of time arguing about who sat where."
+    },
+    {
+      "speaker": "host_a",
+      "start": 270.082,
+      "end": 277.831,
+      "text": "Alright. The heart of the chapter \u2014 the Tenth Schedule. The Anti-Defection Law, 52nd Amendment, 1985, under Rajiv Gandhi. What did it actually do?"
+    },
+    {
+      "speaker": "host_b",
+      "start": 277.831,
+      "end": 315.606,
+      "text": "It said: if you were elected on a party's ticket and you voluntarily give up that party's membership, or you vote against the party whip without permission, you lose your seat. Full stop. The idea was to end the Aaya Ram era \u2014 to make a vote for a party's candidate actually mean a vote for that party's programme for the full term. And \"voluntarily give up\" doesn't require formal resignation. In Ravi Naik versus Union of India in 1994, the Supreme Court said your conduct can amount to giving up membership \u2014 joining another party's rally, accepting a ministership in a rival government. Otherwise the law could be defeated by simply never putting anything in writing."
+    },
+    {
+      "speaker": "host_a",
+      "start": 315.606,
+      "end": 324.646,
+      "text": "But the original 1985 law had a loophole \u2014 if a third of your party split off, it was protected. Which presumably got exploited constantly through the nineties."
+    },
+    {
+      "speaker": "host_b",
+      "start": 324.646,
+      "end": 366.942,
+      "text": "Constantly. You'd see one-third of a legislature party suddenly \"splitting\" \u2014 usually with very transparent encouragement from a rival party. So the 91st Amendment in 2003, under Vajpayee, did two things. It deleted the split exception entirely, and kept only a \"merger\" exception \u2014 and merger now requires two-thirds of the legislature party to agree, plus the original party itself has to formally merge with another. That bar worked against retail defection \u2014 one or two MLAs casually crossing over. It did not work against wholesale defection, which is what we've been watching for the last few years. The Shinde split in Maharashtra in 2022, the Ajit Pawar split in 2023 \u2014 both engineered to clear the two-thirds bar. The law forced defections to become bigger and more coordinated, not rarer."
+    },
+    {
+      "speaker": "host_a",
+      "start": 367.142,
+      "end": 374.719,
+      "text": "And the person who decides whether a defection has happened is the Speaker. Which is the strangest part of the whole arrangement."
+    },
+    {
+      "speaker": "host_b",
+      "start": 374.719,
+      "end": 410.882,
+      "text": "It is the structural flaw the law has never resolved. The Speaker is, by definition, a politician of one party. Every committee that has looked at this \u2014 the Dinesh Goswami Committee, the NCRWC in 2002, even former Lok Sabha Secretary General Subhash Kashyap \u2014 has said the Speaker is structurally unable to be impartial in defection cases. The Supreme Court in the Keisham Meghachandra Singh case in 2020, out of Manipur, said the same thing, and recommended an independent tribunal of retired judges instead. The same 2020 judgment said Speakers should decide disqualification petitions within three months \u2014 but that's judicial guidance, not statute."
+    },
+    {
+      "speaker": "host_a",
+      "start": 410.882,
+      "end": 421.215,
+      "text": "And Telangana is showing how toothless that guidance can be. Ten BRS MLAs walked over to the ruling Congress in early 2024, and the Speaker simply sat on the petitions."
+    },
+    {
+      "speaker": "host_b",
+      "start": 421.215,
+      "end": 447.046,
+      "text": "The Supreme Court directed him to decide within three months in July 2025, issued contempt notices in November when he ignored that, and as of February this year had granted yet another extension. So the cure for partisan Speakers is judicial supervision, and the cure for judicial supervision being slow is... more judicial supervision. Meanwhile the government has been formed, the budget passed, ministerships handed out. The remedy arrives after the wound has healed crookedly."
+    },
+    {
+      "speaker": "host_a",
+      "start": 447.046,
+      "end": 454.278,
+      "text": "The Shiv Sena case is the textbook example of that. Walk me through what the Court actually said in Subhash Desai."
+    },
+    {
+      "speaker": "host_b",
+      "start": 454.278,
+      "end": 482.52,
+      "text": "The five-judge bench in May 2023 made two findings that pulled in opposite directions. First, it held that the Governor had no objective material to call a floor test against Uddhav Thackeray \u2014 that decision was unjustified. But second, it refused to restore Thackeray's government, because Thackeray had resigned before facing the floor test. Once he'd resigned, the Governor was entitled to invite Eknath Shinde. So the Court found the trigger was wrong but refused to undo what the trigger had caused."
+    },
+    {
+      "speaker": "host_a",
+      "start": 482.52,
+      "end": 493.197,
+      "text": "And then in January 2024, the Speaker ruled the Shinde faction was the real Shiv Sena, declining to disqualify its thirty-seven MLAs. Which sounds less like adjudication and more like ratification."
+    },
+    {
+      "speaker": "host_b",
+      "start": 493.197,
+      "end": 536.593,
+      "text": "That's the criticism. The same Speaker, a month later, ruled the Ajit Pawar faction was the real NCP \u2014 even though Sharad Pawar, who literally founded the party, was on the other side, and Ajit had broken away in July 2023 with forty-one of fifty-three NCP MLAs. The Speaker's reasoning was that defying the founder's wishes amounted to \"internal dissent,\" not defection. The Election Commission, separately, had already given the Shinde group the bow and arrow back in February 2023, and the Ajit Pawar group got the clock in February 2024. The Subhash Desai judgment, importantly, said the Speaker \u2014 not the ECI's symbol order \u2014 is supposed to decide who the real legislative party is. In practice they've ended up pointing in the same direction."
+    },
+    {
+      "speaker": "host_a",
+      "start": 536.793,
+      "end": 551.922,
+      "text": "So the Tenth Schedule was designed to make it costly to break a party. Now the workaround is \u2014 capture two-thirds, get the Speaker to call you the real party, get the symbol from the ECI, and the original leader is the one left holding nothing."
+    },
+    {
+      "speaker": "host_b",
+      "start": 551.922,
+      "end": 591.719,
+      "text": "That is, in one sentence, the state of anti-defection law in India today. The 91st Amendment closed the door on retail defection. It accidentally created a market for wholesale defection. And the institution meant to police that market has neither the independence nor the urgency to do so. The chapter ends on Milan Vaishnav's argument from When Crime Pays \u2014 that parties rationally pick candidates with criminal records because they're self-financing and winnable. All our recognition rules and defection rules operate on parties as institutions, while parties themselves operate on a much simpler logic: who can win, and who can pay for their own campaign. Until we change the incentives for candidate selection, fixing the Tenth Schedule only treats the symptom."
+    },
+    {
+      "speaker": "host_a",
+      "start": 591.719,
+      "end": 605.204,
+      "text": "And the one question quietly sitting under this whole episode \u2014 if the cure for a partisan Speaker is an independent tribunal, and no party in power has ever wanted that tribunal, what would actually have to break before they did?"
+    }
+  ]
+}
