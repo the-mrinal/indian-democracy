@@ -64,7 +64,6 @@ LAYOUT = """<!doctype html>
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#000080">
   <link rel="apple-touch-icon" sizes="192x192" href="assets/icons/192.png">
-  <script defer src="https://analytics.mrinal.dev/script.js" data-website-id="550cb5a1-25ff-48c4-a84a-94e5a7efa93d"></script>
 </head>
 <body>
   <div class="layout">
